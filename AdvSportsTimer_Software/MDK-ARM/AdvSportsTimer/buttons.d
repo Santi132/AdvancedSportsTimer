@@ -1,0 +1,9 @@
+advsportstimer\buttons.o: ..\Src\buttons.c
+advsportstimer\buttons.o: ../Inc/buttons.h
+advsportstimer\buttons.o: ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f030xc.h
+advsportstimer\buttons.o: ../Drivers/CMSIS/Include/core_cm0.h
+advsportstimer\buttons.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+advsportstimer\buttons.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+advsportstimer\buttons.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+advsportstimer\buttons.o: ../Drivers/CMSIS/Include/core_cmFunc.h
+advsportstimer\buttons.o: ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/system_stm32f0xx.h
